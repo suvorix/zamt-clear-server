@@ -1,0 +1,6 @@
+E:\Nikita Suvorov\HomeWork\МДК 01.01\__MYWORK\ClearServer\bin\Debug\ClearServer.exe.config
+E:\Nikita Suvorov\HomeWork\МДК 01.01\__MYWORK\ClearServer\bin\Debug\ClearServer.exe
+E:\Nikita Suvorov\HomeWork\МДК 01.01\__MYWORK\ClearServer\bin\Debug\ClearServer.pdb
+E:\Nikita Suvorov\HomeWork\МДК 01.01\__MYWORK\ClearServer\obj\Debug\ClearServer.csprojResolveAssemblyReference.cache
+E:\Nikita Suvorov\HomeWork\МДК 01.01\__MYWORK\ClearServer\obj\Debug\ClearServer.exe
+E:\Nikita Suvorov\HomeWork\МДК 01.01\__MYWORK\ClearServer\obj\Debug\ClearServer.pdb
